@@ -32,7 +32,7 @@ By the conclusion of this course, students will be able to:
 
 | Grading           | Category Weight | | Grade Scale |    |
 |-------------------|-----------------|-|-------------|----|
-| Homework and Labs | 35%             | | >= 90%      | A  |
+| Readings and Labs | 35%             | | >= 90%      | A  |
 | Exams and Quizzes | 40%             | | 80% - 89%   | B  |
 | Final Exam        | 25%             | | 70% - 79%   | C  |
 |                   |                 | | 60% - 69%   | D  |
