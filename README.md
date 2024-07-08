@@ -1,8 +1,8 @@
 # Introduction to Networks and Distributed Computing
 
-## CECS 327: Section 1 (10335)
+## CECS 327: Section 1 (10216)
 
-### Summer 2022
+### Summer 2024
 
 | Class Lecture | Time              | Room    |
 |---------------|-------------------|---------|
@@ -10,11 +10,11 @@
 
 | Instructor        | Email                       | Office  | Office Hours           |
 |-------------------|-----------------------------|---------|------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | By appointment only |
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | By appointment only |
 
 ### Required Textbook
 
-* [Distributed Systems: Principles and Paradigms](https://www.distributed-systems.net/index.php/books/ds3), 2017 edition, by Andrew Tanenbaum and Maarten van Steen
+* [Distributed Systems: Principles and Paradigms](https://www.distributed-systems.net/index.php/books/ds4/), 2024 edition, by Maarten van Steen and Andrew S. Tanenbaum
 
 ### Catalog Description
 
@@ -52,12 +52,12 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 * Homework and lab assignments are due on the date and time indicated on [Github Classroom](http://classroom.github.com)
 * Homework may include writing code, doing research, essay writing, debugging programs, and other disciplines.
-* Lab assignments will be coding exercises designed to practice the concepts discussed in lecture.
-* You are welcome to work on homework and lab assignments at home, but assistance will only be provided during lab time and office hours.
+* Lab assignments will be coding projects designed to practice the concepts discussed in lecture.
+* You are welcome to work on homework and lab assignments at home, but assistance will only be provided during classtime or office hours.
 * Labs will be graded on correct answers to required deliverables and/or the completeness of the assignment. Incomplete assignments may receive partial or no credit at the discretion of the instructor.
 * Students will be expected to read selections from the textbook for every lecture session. These readings should be done before class so that we can have a discussion on the topics during the lecture.
-* During exams, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
-* All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's *own* comments *will not receive any credit*. **NO EXCEPTIONS**
+* During in-class exams or quizzes, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
+* All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's own comments *will not receive any credit*.
 
 **Late assignments** will, at a minimum, be subject to a 10% reduction in grade *per day* that the assignment is late. I do not accept homework submissions via email, fax, or any other means than the deliverable requirements listed on the assignment specification.
 
@@ -65,7 +65,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                                 |
 |------------|---------------------------------------------------------|
-| Jul  4     | Introduction to Distributed Systems -- **REMOTE and ASYNCRONOUS** (Ch 1)|
+| Jul  4     | Introduction to Distributed Systems (Ch 1)              |
 | Jul 11     | Architectures (Ch 2), First Midterm                     |
 | Jul 18     | Processes (Ch 3), Communication (Ch 4)                  |
 | Jul 25     | Naming (Ch 5), Second midterm                           |
