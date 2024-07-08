@@ -65,12 +65,12 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                                 |
 |------------|---------------------------------------------------------|
-| Jul  4     | Introduction to Distributed Systems (Ch 1)              |
-| Jul 11     | Architectures (Ch 2), First Midterm                     |
-| Jul 18     | Processes (Ch 3), Communication (Ch 4)                  |
-| Jul 25     | Naming (Ch 5), Second midterm                           |
-| Aug 01     | Coordination  (Ch 6)                                    |
-| Aug 08     | Fault Tolerance (Ch 8), Final exam                      |
+| Jul  7     | Introduction to Distributed Systems (Ch 1)              |
+| Jul 14     | Architectures (Ch 2), First Midterm                     |
+| Jul 21     | Processes (Ch 3), Communication (Ch 4)                  |
+| Jul 28     | Naming (Ch 5), Second midterm                           |
+| Aug  4     | Coordination  (Ch 6)                                    |
+| Aug  8     | Project Demos, Final exam                               |
 
 ### Computer Software
 
