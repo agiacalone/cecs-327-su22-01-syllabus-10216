@@ -70,7 +70,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 | Jul 21     | Processes (Ch 3), Communication (Ch 4)                  |
 | Jul 28     | Naming (Ch 5), Second midterm                           |
 | Aug  4     | Coordination  (Ch 6)                                    |
-| Aug  8     | Project Demos, Final exam                               |
+| Aug 11     | Project Demos, Final exam                               |
 
 ### Computer Software
 
