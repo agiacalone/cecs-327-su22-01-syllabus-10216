@@ -14,7 +14,7 @@
 
 ### Required Textbook
 
-* [Distributed Systems: Principles and Paradigms](https://www.distributed-systems.net/index.php/books/ds4/), 2024 edition, by Maarten van Steen and Andrew S. Tanenbaum
+* [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/), 2024 edition, by Maarten van Steen and Andrew S. Tanenbaum
 
 ### Catalog Description
 
